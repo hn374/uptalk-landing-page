@@ -1,0 +1,14 @@
+section {
+	width: 100%;
+	height: 600px;
+}
+
+section.main {
+}
+
+section.green {
+	background-color: rgb(88, 178, 169);
+}
+
+section.white {
+}
