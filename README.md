@@ -37,8 +37,10 @@
 
 ## Project Structure
 ### The project is broken up into two main files for right now:
-#### Index.html
+
+### Index.html
 ##### This is where all of the HTML and main development of the front end is done.
 ##### This page is currently broken up into 5 different sections, the main section, two green sections and two white sections. Navigation bar will be coming soon. 
-#### Main.css
+
+### Main.css
 ##### This is where the styles are created for Index.html.
