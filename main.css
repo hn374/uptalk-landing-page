@@ -22,11 +22,47 @@ img {
     font-size: 52px;
 }
 
-.sample-nav {
-    position: absolute;
-    top: 10%;
-    right: 10%;
-    text-shadow: 2px 2px #696969;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.nav-bar {
+	top: 0%;
+	position: absolute;
+	width: 100%;
+}
+
+.right-nav {
+	float:right;
+}
+
+.left-nav {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 section.main {
