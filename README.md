@@ -1,4 +1,8 @@
-# uptalk-landing-page
+# Uptalk Landing Page
+### Contributors:
+#### Hoang Nguyen - Team Lead and Front End Developer
+#### Michael Matteo - Front End Developer
+#### Blake Parker - Front End Developer
 
 ## How To Setup and Clone The Project
 
@@ -9,3 +13,16 @@
 `git clone <URL>`
 #### 4. Change into the directory you just cloned with cd. 
 `cd <directory name>`
+
+## How To Work and Open The Project
+### Work:
+#### To work on the project, drag your entire project folder into sublime text and it should open up.
+### Open:
+#### To open the project, right click on index.html and click open with browser onto google chrome. Alternatively, just drag the index.html file into google chrome. 
+### Save and See Changes:
+#### To save and see the changes you made, click command + S. This will save the file. To see the changes, refresh the page.
+
+## How To Push Changes Into the Github Repository
+#### 1. `git add .`
+#### 2. `git commit -m "Enter your commit message here"`
+#### 3. `git push origin master`
